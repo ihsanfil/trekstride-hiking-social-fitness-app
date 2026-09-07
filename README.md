@@ -1,4 +1,4 @@
-# TrekStride 🌲
+# TrekStride | Hiking & Trekking Social Fitness App 🌲
 
 **Doğaya çık. Rotanı bırak.**
 
@@ -116,11 +116,6 @@ dotnet build --no-restore
 Android API 35 emülatörlerinde `System UI isn't responding` uyarısı yüksek
 çözünürlük/grafik yükünden kaynaklanabilir. Bu projede kullanılan AVD profili
 720×1280, 4 GB RAM ve host GPU ile yapılandırılmıştır.
-
-## Rehberler
-
-Teknik olmayan kurulum için `rehber.html`, teknoloji ve mülakat anlatımı için
-`nedir.html` dosyasına bakabilirsiniz.
 
 ## Lisans
 
