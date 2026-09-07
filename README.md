@@ -97,8 +97,6 @@ APK: `mobile/android/app/build/outputs/apk/debug/app-debug.apk`
 api/TrekStride.Api/       ASP.NET Core API, servisler ve veri erişimi
 mobile/src/               ekranlar, servisler, navigation ve state
 mobile/android/           Android native proje ve Gradle yapılandırması
-rehber.html               teknik kurulum rehberi
-nedir.html                proje ve teknoloji açıklama rehberi
 ```
 
 ## Doğrulama
