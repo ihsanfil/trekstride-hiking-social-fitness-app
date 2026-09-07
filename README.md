@@ -1,4 +1,4 @@
-# TrekStride | Hiking & Trekking Social Fitness App 🌲
+# TrekStride | React Native + .NET Hiking & Trekking Social Fitness App 🌲
 
 **Doğaya çık. Rotanı bırak.**
 
